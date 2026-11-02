@@ -1,43 +1,49 @@
 <div align="center">
 
-# ✦ GERAÇÃO ELEITA ✦
+# ♡ GERAÇÃO ELEITA ♡
 
-### Um espaço para crescer na fé, ler a Bíblia e se conectar. ♡
+### A little space to grow in faith, read the Bible, and connect. ✧
 
-<img src="https://img.shields.io/badge/Android-mobile-111111?style=flat-square&labelColor=111111&logo=android&logoColor=FFFFFF" alt="Android">
-<img src="https://img.shields.io/badge/app-APK-444444?style=flat-square&labelColor=444444&logo=android&logoColor=FFFFFF" alt="Aplicativo APK">
-<img src="https://img.shields.io/badge/feito%20com-Flet-777777?style=flat-square&labelColor=777777&logoColor=FFFFFF" alt="Feito com Flet">
+<img src="https://img.shields.io/badge/Android-mobile-F7B7C8?style=flat-square&labelColor=F7B7C8&logo=android&logoColor=6B4F5F" alt="Android">
+<img src="https://img.shields.io/badge/app-APK-F4A6C1?style=flat-square&labelColor=F4A6C1&logo=android&logoColor=6B4F5F" alt="APK app">
+<img src="https://img.shields.io/badge/built%20with-Flet-E8A4B8?style=flat-square&labelColor=E8A4B8&logoColor=6B4F5F" alt="Built with Flet">
+
+<br>
+
+<img src="https://img.shields.io/badge/✿%20made%20with%20care-✿-F7B7C8?style=flat-square&labelColor=F7B7C8" alt="Made with care">
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=111111" width="80%" alt="divisor">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=F7B7C8" width="80%" alt="pink divider">
 
 </div>
 
-## sobre
+## about
 
-**Geração Eleita** é um aplicativo para leitura bíblica e conexão com outras pessoas. Acompanhe seu progresso de leitura, compartilhe reflexões e interaja com a comunidade.
+**Geração Eleita** is an app for Bible reading and connecting with others. Track your reading progress, share reflections, and interact with the community.
 
-> **Disponibilidade:** no momento, o aplicativo está disponível **somente para celulares Android**, em formato APK. Não há versão para Windows, iOS ou computadores.
+> **Language:** The app's interface is in **Brazilian Portuguese (Português do Brasil)**.
 
-## recursos
+> **Availability:** The app is currently available **only for Android phones** as an APK. There is no Windows, iOS, or desktop version.
 
-- Leia os livros e capítulos da Bíblia e acompanhe seu progresso.
-- Continue de onde parou na leitura.
-- Compartilhe publicações e converse por comentários.
-- Encontre pessoas, siga perfis e veja suas publicações.
-- Receba notificações sobre interações e novas ligações.
-- Personalize seu perfil com nome, biografia e foto.
+## features
 
-## instalação · Android
+- Read Bible books and chapters and track your progress.
+- Pick up where you left off.
+- Share posts and join conversations in the comments.
+- Find people, follow profiles, and see their posts.
+- Get notifications about interactions and new followers.
+- Customize your profile with a name, bio, and photo.
 
-1. Baixe o arquivo [Geracao_Eleita.apk](Geracao_Eleita.apk) neste repositório para o seu celular Android.
-2. Abra o APK baixado e siga as instruções do Android para instalar.
-3. Se solicitado, permita a instalação de aplicativos desta origem nas configurações do aparelho.
-4. Abra **Geração Eleita** e conecte-se à internet para usar o aplicativo.
+## installation · Android
 
-O aplicativo requer **Android 7.0 ou superior**. Como a instalação é feita por APK, o Android pode exibir um aviso de segurança antes de instalar.
+1. Download [Geracao_Eleita.apk](Geracao_Eleita.apk) to your Android phone.
+2. Open the downloaded APK and follow Android's installation instructions.
+3. If prompted, allow app installations from this source in your device settings.
+4. Open **Geração Eleita** and connect to the internet to use the app.
 
-## observação
+The app requires **Android 7.0 or later**. Android may show a security prompt before installing an APK.
 
-O Geração Eleita se conecta a um servidor para carregar publicações, perfis e notificações. É necessária uma conexão com a internet para usar esses recursos.
+## note
+
+Geração Eleita connects to a server to load posts, profiles, and notifications. An internet connection is required to use these features.
