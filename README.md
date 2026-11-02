@@ -37,10 +37,11 @@
 
 ## installation · Android
 
-1. Download [Geracao_Eleita.apk](Geracao_Eleita.apk) to your Android phone.
-2. Open the downloaded APK and follow Android's installation instructions.
-3. If prompted, allow app installations from this source in your device settings.
-4. Open **Geração Eleita** and connect to the internet to use the app.
+1. Open the [latest release](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/latest).
+2. Under **Assets**, download the Android APK.
+3. Open the downloaded APK and follow Android's installation instructions.
+4. If prompted, allow app installations from this source in your device settings.
+5. Open **Geração Eleita** and connect to the internet to use the app.
 
 The app requires **Android 7.0 or later**. Android may show a security prompt before installing an APK.
 
