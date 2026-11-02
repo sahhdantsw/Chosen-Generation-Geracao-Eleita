@@ -2,7 +2,7 @@
 
 # ♡ GERAÇÃO ELEITA ♡
 
-### A little space to grow in faith, read the Bible, and connect. ✧
+###  ✧
 
 <img src="https://img.shields.io/badge/Android-mobile-F7B7C8?style=flat-square&labelColor=F7B7C8&logo=android&logoColor=6B4F5F" alt="Android">
 <img src="https://img.shields.io/badge/app-APK-F4A6C1?style=flat-square&labelColor=F4A6C1&logo=android&logoColor=6B4F5F" alt="APK app">
