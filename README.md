@@ -2,7 +2,7 @@
 
 # ♡ GERAÇÃO ELEITA ♡
 
-###  ✧
+### ✧
 
 <img src="https://img.shields.io/badge/Android-mobile-F7B7C8?style=flat-square&labelColor=F7B7C8&logo=android&logoColor=6B4F5F" alt="Android">
 <img src="https://img.shields.io/badge/app-APK-F4A6C1?style=flat-square&labelColor=F4A6C1&logo=android&logoColor=6B4F5F" alt="APK app">
@@ -37,7 +37,7 @@
 
 ## installation · Android
 
-1. Open the [latest release](https://github.com/SEU-USUARIO/SEU-REPOSITORIO/releases/latest).
+1. Open the [Geração Eleita releases](https://github.com/sahhdantsw/Chosen-Generation-Geracao-Eleita/releases/latest).
 2. Under **Assets**, download the Android APK.
 3. Open the downloaded APK and follow Android's installation instructions.
 4. If prompted, allow app installations from this source in your device settings.
