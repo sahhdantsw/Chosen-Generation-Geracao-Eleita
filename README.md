@@ -3,9 +3,9 @@
 <h3 align="center">Bible reading and community app for Android</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android%207.0%2B-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
-  <img src="https://img.shields.io/badge/Distribution-APK-0e75b6?style=for-the-badge&logo=android&logoColor=white" alt="APK">
-  <img src="https://img.shields.io/badge/Built%20with-Flet-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Built with Flet">
+  <img src="https://img.shields.io/badge/Platform-Android%207.0%2B-555555?style=for-the-badge&logo=android&logoColor=white" alt="Android 7.0+">
+  <img src="https://img.shields.io/badge/Distribution-APK-555555?style=for-the-badge&logo=android&logoColor=white" alt="APK">
+  <img src="https://img.shields.io/badge/Built%20with-Flet-555555?style=for-the-badge&logo=flutter&logoColor=white" alt="Built with Flet">
   <img src="https://img.shields.io/badge/Language-Portugu%C3%AAs%20(BR)-555555?style=for-the-badge" alt="Brazilian Portuguese">
 </p>
 
